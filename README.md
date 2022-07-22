@@ -1,6 +1,5 @@
-# AllMinecraftLauncher
-This is a Minecraft launcher but with all mc client 
+## AllMinecraftLauncher
 
-So hum. Where is the code? I can't publish it :) nice
+Just go on this website for more information :)
 
-BUT you can install it in realase
+https://yannje.github.io/AllMinecraftLauncher/

@@ -1,0 +1,19 @@
+C:\Users\Administrateur\source\repos\Idk\About the creator\bin\Debug\About the creator.exe.config
+C:\Users\Administrateur\source\repos\Idk\About the creator\bin\Debug\About the creator.exe
+C:\Users\Administrateur\source\repos\Idk\About the creator\bin\Debug\About the creator.pdb
+C:\Users\Administrateur\source\repos\Idk\About the creator\obj\Debug\About_the_creator.Form1.resources
+C:\Users\Administrateur\source\repos\Idk\About the creator\obj\Debug\About_the_creator.Properties.Resources.resources
+C:\Users\Administrateur\source\repos\Idk\About the creator\obj\Debug\About the creator.csproj.GenerateResource.cache
+C:\Users\Administrateur\source\repos\Idk\About the creator\obj\Debug\About the creator.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\Idk\About the creator\obj\Debug\About the creator.exe
+C:\Users\Administrateur\source\repos\Idk\About the creator\obj\Debug\About the creator.pdb
+C:\Users\taile\OneDrive\Bureau\Idk\About the creator\bin\Debug\About the creator.exe.config
+C:\Users\taile\OneDrive\Bureau\Idk\About the creator\bin\Debug\About the creator.exe
+C:\Users\taile\OneDrive\Bureau\Idk\About the creator\bin\Debug\About the creator.pdb
+C:\Users\taile\OneDrive\Bureau\Idk\About the creator\obj\Debug\About the creator.csproj.AssemblyReference.cache
+C:\Users\taile\OneDrive\Bureau\Idk\About the creator\obj\Debug\About_the_creator.Form1.resources
+C:\Users\taile\OneDrive\Bureau\Idk\About the creator\obj\Debug\About_the_creator.Properties.Resources.resources
+C:\Users\taile\OneDrive\Bureau\Idk\About the creator\obj\Debug\About the creator.csproj.GenerateResource.cache
+C:\Users\taile\OneDrive\Bureau\Idk\About the creator\obj\Debug\About the creator.csproj.CoreCompileInputs.cache
+C:\Users\taile\OneDrive\Bureau\Idk\About the creator\obj\Debug\About the creator.exe
+C:\Users\taile\OneDrive\Bureau\Idk\About the creator\obj\Debug\About the creator.pdb

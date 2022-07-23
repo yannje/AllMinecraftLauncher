@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="AllMinecraftLauncher.exe" version="1.0.1.1" publicKeyToken="97a7c522672613a7" language="en" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="AllMinecraftLauncher" version="1.0.0.0" publicKeyToken="97A7C522672613A7" language="neutral" processorArchitecture="msil" />
+    <commandLine file="AllMinecraftLauncher.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Options du manifeste de contrôle de compte d’utilisateur (UAC)
+          Si vous voulez changer le niveau de contrôle de compte d’utilisateur Windows, remplacez le 
+          nœud requestedExecutionLevel par l’un des nœuds suivants.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si vous voulez utiliser la virtualisation de fichiers système et du Registre pour la 
+         compatibilité descendante, supprimez le nœud requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AllMinecraftLauncher.exe" size="61464">
+      <assemblyIdentity name="AllMinecraftLauncher" version="1.0.0.0" publicKeyToken="97A7C522672613A7" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>5ad46WD1pzaO03agvOdbUtwk9LBEcmMo8FMQ9pWOL/Y=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DotNetZip.dll" size="472064">
+      <assemblyIdentity name="DotNetZip" version="1.16.0.0" publicKeyToken="6583C7C814667745" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>jpwDYum/s8Sa9Z4bTTdtPoWxOu0PvD9cDh68mcBzRfM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="701992">
+      <assemblyIdentity name="Newtonsoft.Json" version="13.0.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>tiSUnfiw46YVP9+3MKfG9JkLZZLuDZIuF4hDPSdmEPM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Drawing.Common.dll" size="51248">
+      <assemblyIdentity name="System.Drawing.Common" version="4.0.0.1" publicKeyToken="CC7B13FFCD2DDD51" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>X6ss9XMR2B9Nfflq0TpTJ1rlTP+2nsLkunt9xwaggKE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.IO.Compression.dll" size="111984">
+      <assemblyIdentity name="System.IO.Compression" version="4.1.2.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>uWPrlWJ7XyI+gT/OilPmydcokXFJI95yYxEUc/rr8+8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="AllMinecraftLauncher.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=WIN-BVM6HLBNK1M\Administrateur" issuerKeyHash="bca8716c7f7b7d811af319e88034b93def15ef34" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>s0lUeAx4Qx1afe9MamLqNfZGJ5haO7GV1sMavQI4jSw=</DigestValue></Reference></SignedInfo><SignatureValue>BFkhu68Rp280+QTCafDngd5PBi6dh2o/mVR7F+wWiz6+0tnxFG2ZBEO5sEdvCCaKbFB3LWo5kST8WSpia1E3YZ+ZATAo/qRhR4Yl7g3Rrq67LJ6u5zK+xUbXl69nKq2LSINPlTGcIrrwvA9QbpWpCeFlzKV+YfqB+jS6F1zcQqA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>m0EUwCkpYMpuylOkVpyA8E3nT7H/g3Mz/7Um3Mb01KArDESjRHZ590r6W+OLe/E4ra5/2DpWowHAn7RqCTbt6oVeV5qmuV5mYsHe65KqGKSuEfO4NUMPjyBEeGEbq3BQLCytX+bjDVJLulnxZImE7qDz2KPo2r60y4bPHLo3r10=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="2c8d3802bd1ac3d695b13b5a982746f635ea626a4cef7d5a1d43780c785449b3" Description="" Url=""><as:assemblyIdentity name="AllMinecraftLauncher.exe" version="1.0.1.1" publicKeyToken="97a7c522672613a7" language="en" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=WIN-BVM6HLBNK1M\Administrateur</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>WlEJr/5aNeo+8FBza1+Twf7WX94tkL3o8OcCue1jLNY=</DigestValue></Reference></SignedInfo><SignatureValue>gIUbun5qbcXv4NCva4bDByb5n6GbGtmNKygC8lH1CpVNiStekXz6Iy58yrm0YxNxiFDb2CC3Xlt/p1zACQi6a0OLsePfqyjZCfh0P6Dud6ne1P7IGwIqkOPmoHdbZVwHii+tAAUH4jHXtWHTIugQcoEfpWxuqN0KVHpD1OJS5YE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>m0EUwCkpYMpuylOkVpyA8E3nT7H/g3Mz/7Um3Mb01KArDESjRHZ590r6W+OLe/E4ra5/2DpWowHAn7RqCTbt6oVeV5qmuV5mYsHe65KqGKSuEfO4NUMPjyBEeGEbq3BQLCytX+bjDVJLulnxZImE7qDz2KPo2r60y4bPHLo3r10=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICETCCAXqgAwIBAgIQdVYcATnhx6ZOfJz/nugqtTANBgkqhkiG9w0BAQsFADBHMUUwQwYDVQQDHjwAVwBJAE4ALQBCAFYATQA2AEgATABCAE4ASwAxAE0AXABBAGQAbQBpAG4AaQBzAHQAcgBhAHQAZQB1AHIwHhcNMjIwNzIxMjE0OTAxWhcNMjMwNzIyMDM0OTAxWjBHMUUwQwYDVQQDHjwAVwBJAE4ALQBCAFYATQA2AEgATABCAE4ASwAxAE0AXABBAGQAbQBpAG4AaQBzAHQAcgBhAHQAZQB1AHIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJtBFMApKWDKbspTpFacgPBN50+x/4NzM/+1JtzG9NSgKwxEo0R2efdK+lvji3vxOK2uf9g6VqMBwJ+0agk27eqFXleaprleZmLB3uuSqhikrhHzuDVDD48gRHhhG6twUCwsrV/m4w1SS7pZ8WSJhO6g89ij6Nq+tMuGzxy6N69dAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAcxOFD4F+kVma73x8D6rcuI2bNVeayk1J2LfFXlM55OO8IOpRSvVgFbWqnH1XQ0ouSTjSFg+8ohgaRKik9XmXRVPrpnxzlJuDh/ovgWOngLCZiK7C9vrMjWE63mmAZegqpKsCie0Kulum/yB38J6WfC/fQGye+v5qnbCTosJtrHo=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -26,6 +26,11 @@ namespace Idk
         string badlionfolder = @"Data\Badlion";
         string badliongame = @"Data\Badlion\Badlion Client.exe";
         string badlionlink = "https://firebasestorage.googleapis.com/v0/b/piochyserv.appspot.com/o/AllMinecraftLauncher%2FBadlion%20Client.zip?alt=media&token=0f0717e9-8057-40ec-b9d2-bfb90922f249";
+        //tlauncherVariable
+        string TlauncherGame = @"Data\Tlauncher.exe";
+        string TlauncherLink = "https://firebasestorage.googleapis.com/v0/b/piochyserv.appspot.com/o/AllMinecraftLauncher%2FTLauncher.exe?alt=media&token=988d6eba-b592-4e2e-a061-4b5d4eccc497";
+        string TlauncherName = "Tlauncher.exe";
+        string TlauncherFolder = @"Data\Tlauncher";
         //Other
         string ErrorReinstall = "Cannot reinstall because is noytinstalled ! Please install the client and reinstall it if there are a problem with the launcher";
         string ReinstallSucces = "This has been uninstall. Redownload on progress...";
@@ -35,9 +40,10 @@ namespace Idk
         string DeleteZipMSG = "Deleting the zip file...";
         string allthingFinish = "The file has been deleted. Opening the launcher";
         string DeleteGood = "All Client has been unistalled. You can reinstall all :)";
-        string DeleteNotGood = "Why did you press this button if the folder doesn't exists. You can stupid";
+        string DeleteNotGood = "Why did you press this button if the folder doesn't exists. You stupid";
         string na = "na";
         string infoD = "https://github.com/yannje/AllMinecraftLauncher/releases/download/About/About.the.creator.exe";
+        string FileMoveDone = "The file has been move. Openning the launcher";
         //DDL(idk)
 
         [DllImport("wininet.dll")]
@@ -156,6 +162,31 @@ namespace Idk
             Process.Start(badliongame);
         }
 
+        private void TlauncherBTN_Click(object sender, EventArgs e)
+        {
+            WebClient client = new WebClient();
+            if (File.Exists(@"Data\Tlauncher\Tlauncher.exe"))
+            {
+                MessageBox.Show(AlreadyExist);
+                Process.Start(@"Data\Tlauncher\Tlauncher.exe");
+            }
+            else
+            {
+                client.DownloadFileAsync(new Uri(TlauncherLink), TlauncherName);
+                client.DownloadProgressChanged += Client_DownloadProgressChanged;
+                client.DownloadFileCompleted += Client_DownloadFileCompleted3;
+            }
+
+        }
+
+        private void Client_DownloadFileCompleted3(object sender, AsyncCompletedEventArgs e)
+        {
+            Directory.CreateDirectory(TlauncherFolder);
+            File.Move("Tlauncher.exe", @"Data\Tlauncher\Tlauncher.exe");
+            MessageBox.Show(FileMoveDone);
+            Process.Start(TlauncherGame);
+        }
+
         // Reinstall Part
         private void ReinstallSalwyrrBTN_Click(object sender, EventArgs e)
         {
@@ -209,6 +240,8 @@ namespace Idk
                 MessageBox.Show(ErrorReinstall);
             }
         }
+
+
 
         // Settings
 

@@ -4,28 +4,28 @@
   <description asmv2:iconFile="ClipartKey_1858192.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="AllMinecraftLauncher" version="1.0.0.0" publicKeyToken="97A7C522672613A7" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="AllMinecraftLauncher" version="1.0.0.0" publicKeyToken="845A21FF5A7A80CA" language="neutral" processorArchitecture="msil" />
     <commandLine file="AllMinecraftLauncher.exe" parameters="" />
   </entryPoint>
   <trustInfo>
     <security>
       <applicationRequestMinimum>
-        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
         <defaultAssemblyRequest permissionSetReference="Custom" />
       </applicationRequestMinimum>
       <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
-        <!--
-          Options du manifeste de contrôle de compte d’utilisateur (UAC)
-          Si vous voulez changer le niveau de contrôle de compte d’utilisateur Windows, remplacez le 
-          nœud requestedExecutionLevel par l’un des nœuds suivants.
+        <!-- Options du manifeste de contrôle de compte d'utilisateur
+             Si vous souhaitez modifier le niveau du contrôle de compte d'utilisateur Windows, remplacez le 
+             nœud requestedExecutionLevel par l'une des propositions suivantes.
 
         <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
         <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
         <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
 
-         Si vous voulez utiliser la virtualisation de fichiers système et du Registre pour la 
-         compatibilité descendante, supprimez le nœud requestedExecutionLevel.
-    -->
+            La spécification de l'élément requestedExecutionLevel désactive la virtualisation de fichiers et du Registre. 
+            Supprimez cet élément si votre application a besoin de la virtualisation pour des
+            raisons de compatibilité descendante.
+        -->
         <requestedExecutionLevel level="asInvoker" uiAccess="false" />
       </requestedPrivileges>
     </security>
@@ -43,26 +43,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AllMinecraftLauncher.exe" size="545304">
-      <assemblyIdentity name="AllMinecraftLauncher" version="1.0.0.0" publicKeyToken="97A7C522672613A7" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AllMinecraftLauncher.exe" size="590336">
+      <assemblyIdentity name="AllMinecraftLauncher" version="1.0.0.0" publicKeyToken="845A21FF5A7A80CA" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>EbfZIc6/er8kkIeXMu7F+NnCU3irRIgi/JXZ0SQ5moI=</dsig:DigestValue>
+        <dsig:DigestValue>fkXu6ZhHdh5pwp6CmtaqDMzx0j4mqjA5sf86IXZ5sO4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en\AllMinecraftLauncher.resources.dll" size="272384">
-      <assemblyIdentity name="AllMinecraftLauncher.resources" version="1.0.0.0" publicKeyToken="97A7C522672613A7" language="en" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en\AllMinecraftLauncher.resources.dll" size="273920">
+      <assemblyIdentity name="AllMinecraftLauncher.resources" version="1.0.0.0" publicKeyToken="845A21FF5A7A80CA" language="en" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>lamdZlvzDwGpKb3E1en8YC+nGO5RYJ9rrIhoMLez/Tc=</dsig:DigestValue>
+        <dsig:DigestValue>GIZPhKMe4CPSwU1HS9AI6S/SPx5XeqG+plZCEfilK0I=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -108,4 +108,21 @@
       <dsig:DigestValue>phya7mrwBxjFUbjw/iKTnfCQ7EmKuiGRG7OJwupLB2M=</dsig:DigestValue>
     </hash>
   </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- Liste des versions de Windows pour lesquelles cette application a été testée,
+           et sur lesquelles elle doit fonctionner. Décommentez éléments appropriés,
+           et Windows va automatiquement sélectionner l'environnement le plus compatible. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
 </asmv1:assembly>

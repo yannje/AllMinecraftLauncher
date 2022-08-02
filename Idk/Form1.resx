@@ -117,7 +117,486 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="&gt;&gt;ReinstallLunarBTN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="UICheckBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>74, 17</value>
+  </data>
+  <data name="BadlionBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>606, 15</value>
+  </data>
+  <data name="&gt;&gt;Speed.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label6.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;LauncherSoon4.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="LauncherSoon1.Text" xml:space="preserve">
+    <value>Launcher Prochainement</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="ReinstallLunarBTN.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="LauncherSoon.Size" type="System.Drawing.Size, System.Drawing">
+    <value>135, 23</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="LauncherSoon.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="TlauncherBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>466, 15</value>
+  </data>
+  <data name="button_3.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="button2.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="&gt;&gt;ProgressBArShowBTN.Name" xml:space="preserve">
+    <value>ProgressBArShowBTN</value>
+  </data>
+  <data name="label4.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="LauncherSoon2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>328, 57</value>
+  </data>
+  <data name="DownloadBNT.Size" type="System.Drawing.Size, System.Drawing">
+    <value>135, 23</value>
+  </data>
+  <data name="&gt;&gt;ReinstallLunarBTN.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;ReinstallTlauncherBTN.Name" xml:space="preserve">
+    <value>ReinstallTlauncherBTN</value>
+  </data>
+  <data name="TotalLabel.Text" xml:space="preserve">
+    <value>0 MB</value>
+  </data>
+  <data name="&gt;&gt;label8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>236, 10</value>
+  </data>
+  <data name="LauncherSoon2.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="ReinstallBadlionBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 46</value>
+  </data>
+  <data name="&gt;&gt;SettingsPanel.Name" xml:space="preserve">
+    <value>SettingsPanel</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>X64/X86</value>
+  </data>
+  <data name="&gt;&gt;TotalLabel.Parent" xml:space="preserve">
+    <value>UIbox</value>
+  </data>
+  <data name="&gt;&gt;progressBar.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;DeleteAllBTN.Name" xml:space="preserve">
+    <value>DeleteAllBTN</value>
+  </data>
+  <data name="button_3.Text" xml:space="preserve">
+    <value>Secret</value>
+  </data>
+  <data name="&gt;&gt;SettingsBTN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ExtractLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;ReinstallSalwyrrBTN.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="SettingsBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>94, 23</value>
+  </data>
+  <data name="&gt;&gt;pourcentageLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ReinstallPanel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="ProgressBArShowBTN.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="UICheckBox.Text" xml:space="preserve">
+    <value>Voir les UI</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 43</value>
+  </data>
+  <data name="label8.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;OwnerBTN.Name" xml:space="preserve">
+    <value>OwnerBTN</value>
+  </data>
+  <data name="DeleteAllBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>122, 23</value>
+  </data>
+  <data name="&gt;&gt;SettingsPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="BadlionBTN.Text" xml:space="preserve">
+    <value>Installer Badlion</value>
+  </data>
+  <data name="&gt;&gt;UICheckBox.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="ReinstallTlauncherBTN.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="&gt;&gt;ReinstallBadlionBTN.Name" xml:space="preserve">
+    <value>ReinstallBadlionBTN</value>
+  </data>
+  <data name="ReinstallPalaBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 71</value>
+  </data>
+  <data name="InfoBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>118, 23</value>
+  </data>
+  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
+    <value>InfoBox</value>
+  </data>
+  <data name="LauncherSoon3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>134, 23</value>
+  </data>
+  <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>375, 41</value>
+  </data>
+  <data name="&gt;&gt;LauncherSoon1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label5.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="TotalDecompressProgressBar.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;LunarBTN.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="label9.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;LauncherSoon2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Minecraft Launcher</value>
+  </data>
+  <data name="InfoBox.Text" xml:space="preserve">
+    <value>Info de l'app</value>
+  </data>
+  <data name="ProgressBArShowBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 20</value>
+  </data>
+  <data name="SettingsBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>682, 23</value>
+  </data>
+  <data name="LauncherSoon2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>134, 23</value>
+  </data>
+  <data name="ExitInfoBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 23</value>
+  </data>
+  <data name="ExitSettings.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 23</value>
+  </data>
+  <data name="ExitInfoBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>160, 10</value>
+  </data>
+  <data name="BadlionBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>134, 23</value>
+  </data>
+  <data name="&gt;&gt;ProgressBArShowBTN.Parent" xml:space="preserve">
+    <value>SettingsPanel</value>
+  </data>
+  <data name="&gt;&gt;ExitSettings.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;LauncherSoon3.Name" xml:space="preserve">
+    <value>LauncherSoon3</value>
+  </data>
+  <data name="ReinstallPalaBTN.Text" xml:space="preserve">
+    <value>Réinstaller Paladuim(FR)</value>
+  </data>
+  <data name="&gt;&gt;DownloadBNT.Name" xml:space="preserve">
+    <value>DownloadBNT</value>
+  </data>
+  <data name="ReinstallPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>274, 100</value>
+  </data>
+  <data name="&gt;&gt;label7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label7.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="ReinstallTlauncherBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>116, 46</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="DownloadBNT.Location" type="System.Drawing.Point, System.Drawing">
+    <value>47, 15</value>
+  </data>
+  <data name="&gt;&gt;OwnerBTN.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="SettingsPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>220, 69</value>
+  </data>
+  <data name="&gt;&gt;LauncherSoon2.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="SettingsPanel.Text" xml:space="preserve">
+    <value>Paramètre</value>
+  </data>
+  <data name="&gt;&gt;button_3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>135, 13</value>
+  </data>
+  <data name="&gt;&gt;SpeedLabel.Parent" xml:space="preserve">
+    <value>UIbox</value>
+  </data>
+  <data name="&gt;&gt;LauncherSoon3.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;SettingsBTN.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;InfoBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ProgressBArShowBTN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;LunarBTN.Name" xml:space="preserve">
+    <value>LunarBTN</value>
+  </data>
+  <data name="LauncherSoon4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>134, 23</value>
+  </data>
+  <data name="&gt;&gt;LauncherSoon3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="pourcentageLabel.Text" xml:space="preserve">
+    <value>0%</value>
+  </data>
+  <data name="ReinstallBadlionBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 23</value>
+  </data>
+  <data name="label9.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>93, 13</value>
+  </data>
+  <data name="&gt;&gt;ReinstallBadlionBTN.Parent" xml:space="preserve">
+    <value>ReinstallPanel</value>
+  </data>
+  <data name="ReinstallBadlionBTN.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;UIbox.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="LauncherSoon.Text" xml:space="preserve">
+    <value>Launcher Prochainement</value>
+  </data>
+  <data name="&gt;&gt;BadlionBTN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="InfoBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>2, 72</value>
+  </data>
+  <data name="label8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>233, 41</value>
+  </data>
+  <data name="ExtractLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>311, 52</value>
+  </data>
+  <data name="&gt;&gt;ReinstallLunarBTN.Parent" xml:space="preserve">
+    <value>ReinstallPanel</value>
+  </data>
+  <data name="&gt;&gt;SettingsBTN.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 20</value>
+  </data>
+  <data name="SettingsBTN.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;TotalDecompressProgressBar.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="pourcentageLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>21, 13</value>
+  </data>
+  <data name="&gt;&gt;SpeedLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>57, 13</value>
+  </data>
+  <data name="button2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 23</value>
+  </data>
+  <data name="&gt;&gt;InfoBTN.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;SettingsBTN.Name" xml:space="preserve">
+    <value>SettingsBTN</value>
+  </data>
+  <data name="&gt;&gt;LauncherSoon.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;InfoBTN.Parent" xml:space="preserve">
+    <value>SettingsPanel</value>
+  </data>
+  <data name="label9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>504, 41</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ReinstallSalwyrrBTN.Name" xml:space="preserve">
+    <value>ReinstallSalwyrrBTN</value>
+  </data>
+  <data name="LauncherSoon.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="&gt;&gt;ExitSettings.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Speed.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="SpeedLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 13</value>
+  </data>
+  <data name="&gt;&gt;button_3.Name" xml:space="preserve">
+    <value>button_3</value>
+  </data>
+  <data name="ReinstallPalaBTN.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="UICheckBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 44</value>
+  </data>
+  <data name="OwnerBTN.Text" xml:space="preserve">
+    <value>Les Createur</value>
+  </data>
+  <data name="SettingsPanel.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="LauncherSoon1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>134, 23</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Version : 1</value>
+  </data>
+  <data name="label8.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="BadlionBTN.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="Speed.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 37</value>
+  </data>
+  <data name="&gt;&gt;UIbox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ReinstallTlauncherBTN.Parent" xml:space="preserve">
+    <value>ReinstallPanel</value>
+  </data>
+  <data name="&gt;&gt;DownloadBNT.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="ReinstallSalwyrrBTN.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="&gt;&gt;ExtractLabel.Name" xml:space="preserve">
+    <value>ExtractLabel</value>
+  </data>
+  <data name="&gt;&gt;ReinstallBadlionBTN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="DownloadBNT.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 13</value>
+  </data>
+  <data name="&gt;&gt;LauncherSoon.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;label8.Name" xml:space="preserve">
+    <value>label8</value>
+  </data>
+  <data name="label7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>99, 41</value>
+  </data>
+  <data name="PalaBTN.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="button_3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>122, 72</value>
+  </data>
+  <data name="&gt;&gt;button_3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ReinstallPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;UIbox.Name" xml:space="preserve">
+    <value>UIbox</value>
+  </data>
+  <data name="&gt;&gt;ReinstallPanel.Name" xml:space="preserve">
+    <value>ReinstallPanel</value>
+  </data>
+  <data name="&gt;&gt;label4.Name" xml:space="preserve">
+    <value>label4</value>
+  </data>
+  <data name="button1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;ReinstallLunarBTN.Name" xml:space="preserve">
+    <value>ReinstallLunarBTN</value>
+  </data>
+  <data name="LauncherSoon4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>606, 57</value>
+  </data>
+  <data name="&gt;&gt;LanguageChanger.Parent" xml:space="preserve">
+    <value>SettingsPanel</value>
+  </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         AAABAAEA9AAAAAEAIAAo8AMAFgAAACgAAAD0AAAAAAIAAAEAIAAAAAAAANADAAAAAAAAAAAAAAAAAAAA
@@ -4424,4 +4903,802 @@
         wAAf//////////////////AA///////////////////gAH//////////////////8AA=
 </value>
   </data>
+  <data name="ExitSettings.Location" type="System.Drawing.Point, System.Drawing">
+    <value>230, 11</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="label7.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;label7.Name" xml:space="preserve">
+    <value>label7</value>
+  </data>
+  <data name="&gt;&gt;LauncherSoon2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="LauncherSoon4.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="LauncherSoon1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label4.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Téléchargé :</value>
+  </data>
+  <data name="&gt;&gt;LanguageChanger.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;TlauncherBTN.Name" xml:space="preserve">
+    <value>TlauncherBTN</value>
+  </data>
+  <data name="LauncherSoon4.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>26, 13</value>
+  </data>
+  <data name="&gt;&gt;ExtractLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label6.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;LunarBTN.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="TotalLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>86, 16</value>
+  </data>
+  <data name="LauncherSoon3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="&gt;&gt;button2.Parent" xml:space="preserve">
+    <value>ReinstallPanel</value>
+  </data>
+  <data name="PalaBTN.Text" xml:space="preserve">
+    <value>Installer Paladuim(FR)</value>
+  </data>
+  <data name="label7.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="LanguageChanger.Location" type="System.Drawing.Point, System.Drawing">
+    <value>191, 44</value>
+  </data>
+  <data name="&gt;&gt;TlauncherBTN.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;ExitInfoBTN.Name" xml:space="preserve">
+    <value>ExitInfoBTN</value>
+  </data>
+  <data name="ReinstallPalaBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>131, 23</value>
+  </data>
+  <data name="&gt;&gt;LanguageChanger.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="InfoBTN.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;ReinstallPalaBTN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BadlionBTN.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;TotalLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ExitInfoBTN.Parent" xml:space="preserve">
+    <value>InfoBox</value>
+  </data>
+  <data name="&gt;&gt;UICheckBox.Parent" xml:space="preserve">
+    <value>SettingsPanel</value>
+  </data>
+  <data name="&gt;&gt;ReinstallSalwyrrBTN.Parent" xml:space="preserve">
+    <value>ReinstallPanel</value>
+  </data>
+  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>647, 41</value>
+  </data>
+  <data name="SpeedLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="LunarBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>188, 15</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="SettingsPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>276, 100</value>
+  </data>
+  <data name="&gt;&gt;button2.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="TotalLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="LauncherSoon2.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="label8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 13</value>
+  </data>
+  <data name="&gt;&gt;pourcentageLabel.Name" xml:space="preserve">
+    <value>pourcentageLabel</value>
+  </data>
+  <data name="&gt;&gt;progressBar.Name" xml:space="preserve">
+    <value>progressBar</value>
+  </data>
+  <data name="LauncherSoon.Location" type="System.Drawing.Point, System.Drawing">
+    <value>47, 57</value>
+  </data>
+  <data name="LunarBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>134, 23</value>
+  </data>
+  <data name="&gt;&gt;PalaBTN.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="ReinstallSalwyrrBTN.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;DeleteAllBTN.Parent" xml:space="preserve">
+    <value>ReinstallPanel</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>App : AllMinecraftLauncher</value>
+  </data>
+  <data name="&gt;&gt;ExitSettings.Name" xml:space="preserve">
+    <value>ExitSettings</value>
+  </data>
+  <data name="&gt;&gt;ExitInfoBTN.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>198, 72</value>
+  </data>
+  <data name="progressBar.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="label3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label3.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
+  </data>
+  <data name="&gt;&gt;ReinstallBadlionBTN.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="ProgressBArShowBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 17</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>X64/X86</value>
+  </data>
+  <data name="LauncherSoon1.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>SettingsPanel</value>
+  </data>
+  <data name="&gt;&gt;progressBar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ProgressBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PalaBTN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ReinstallBadlionBTN.Text" xml:space="preserve">
+    <value>Réinstaller Badlion</value>
+  </data>
+  <data name="button1.Text" xml:space="preserve">
+    <value>Réinstaller</value>
+  </data>
+  <data name="&gt;&gt;LauncherSoon.Name" xml:space="preserve">
+    <value>LauncherSoon</value>
+  </data>
+  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;ProgressBArShowBTN.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;LauncherSoon4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>26, 13</value>
+  </data>
+  <data name="&gt;&gt;TotalDecompressProgressBar.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>InfoBox</value>
+  </data>
+  <data name="LauncherSoon3.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="PalaBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>134, 23</value>
+  </data>
+  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>772, 129</value>
+  </data>
+  <data name="Speed.Text" xml:space="preserve">
+    <value>A télécharger :</value>
+  </data>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ExtractLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pourcentageLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 16</value>
+  </data>
+  <data name="&gt;&gt;progressBar.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;SettingsPanel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="OwnerBTN.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="LanguageChanger.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>InfoBox</value>
+  </data>
+  <data name="LunarBTN.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="&gt;&gt;LauncherSoon2.Name" xml:space="preserve">
+    <value>LauncherSoon2</value>
+  </data>
+  <data name="&gt;&gt;UICheckBox.Name" xml:space="preserve">
+    <value>UICheckBox</value>
+  </data>
+  <data name="&gt;&gt;button2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="LauncherSoon4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="SpeedLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="ReinstallSalwyrrBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>109, 23</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>X64</value>
+  </data>
+  <data name="&gt;&gt;Speed.Parent" xml:space="preserve">
+    <value>UIbox</value>
+  </data>
+  <data name="&gt;&gt;InfoBox.Name" xml:space="preserve">
+    <value>InfoBox</value>
+  </data>
+  <data name="&gt;&gt;pourcentageLabel.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;InfoBTN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="LanguageChanger.Items1" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="Speed.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;PalaBTN.Name" xml:space="preserve">
+    <value>PalaBTN</value>
+  </data>
+  <data name="ExitInfoBTN.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="button2.Text" xml:space="preserve">
+    <value>X</value>
+  </data>
+  <data name="&gt;&gt;LauncherSoon1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="ReinstallLunarBTN.Text" xml:space="preserve">
+    <value>Réinstaller Lunar</value>
+  </data>
+  <data name="ReinstallTlauncherBTN.Text" xml:space="preserve">
+    <value>RéinstallerTlauncher</value>
+  </data>
+  <data name="label5.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;TotalDecompressProgressBar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ProgressBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LauncherSoon4.Name" xml:space="preserve">
+    <value>LauncherSoon4</value>
+  </data>
+  <data name="&gt;&gt;ExtractLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LunarBTN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label5.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;label9.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Speed.Name" xml:space="preserve">
+    <value>Speed</value>
+  </data>
+  <data name="LanguageChanger.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 21</value>
+  </data>
+  <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 13</value>
+  </data>
+  <data name="pourcentageLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;DeleteAllBTN.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="ReinstallPalaBTN.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;InfoBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="ProgressBArShowBTN.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="label6.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Speed.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 13</value>
+  </data>
+  <data name="DeleteAllBTN.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="OwnerBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>91, 23</value>
+  </data>
+  <data name="TlauncherBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>134, 23</value>
+  </data>
+  <data name="&gt;&gt;ExitInfoBTN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LauncherSoon.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="SettingsBTN.Text" xml:space="preserve">
+    <value>Paramètres</value>
+  </data>
+  <data name="&gt;&gt;OwnerBTN.Parent" xml:space="preserve">
+    <value>SettingsPanel</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>X64</value>
+  </data>
+  <data name="OwnerBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>94, 42</value>
+  </data>
+  <data name="ReinstallLunarBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>113, 23</value>
+  </data>
+  <data name="ReinstallBadlionBTN.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="BadlionBTN.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="TlauncherBTN.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="&gt;&gt;ExitSettings.Parent" xml:space="preserve">
+    <value>SettingsPanel</value>
+  </data>
+  <data name="&gt;&gt;DownloadBNT.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="ExitSettings.Text" xml:space="preserve">
+    <value>X</value>
+  </data>
+  <data name="&gt;&gt;LauncherSoon1.Name" xml:space="preserve">
+    <value>LauncherSoon1</value>
+  </data>
+  <data name="ReinstallPanel.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="LauncherSoon2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="DeleteAllBTN.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;TotalDecompressProgressBar.Name" xml:space="preserve">
+    <value>TotalDecompressProgressBar</value>
+  </data>
+  <data name="ExtractLabel.Text" xml:space="preserve">
+    <value>Extraction</value>
+  </data>
+  <data name="&gt;&gt;BadlionBTN.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 23</value>
+  </data>
+  <data name="LauncherSoon1.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;TotalLabel.Name" xml:space="preserve">
+    <value>TotalLabel</value>
+  </data>
+  <data name="SpeedLabel.Text" xml:space="preserve">
+    <value>0 MB</value>
+  </data>
+  <data name="UIbox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 12</value>
+  </data>
+  <data name="&gt;&gt;label8.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Author : da yannje</value>
+  </data>
+  <data name="&gt;&gt;ReinstallPalaBTN.Name" xml:space="preserve">
+    <value>ReinstallPalaBTN</value>
+  </data>
+  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label9.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="LauncherSoon3.Text" xml:space="preserve">
+    <value>Launcher Prochainement</value>
+  </data>
+  <data name="pourcentageLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>638, 28</value>
+  </data>
+  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="InfoBTN.Text" xml:space="preserve">
+    <value>Info appli</value>
+  </data>
+  <data name="&gt;&gt;ReinstallPalaBTN.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="DownloadBNT.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="DownloadBNT.Text" xml:space="preserve">
+    <value>Installer Salwyrr</value>
+  </data>
+  <data name="&gt;&gt;DownloadBNT.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;InfoBTN.Name" xml:space="preserve">
+    <value>InfoBTN</value>
+  </data>
+  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 13</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;button2.Name" xml:space="preserve">
+    <value>button2</value>
+  </data>
+  <data name="&gt;&gt;label6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;InfoBox.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="ExtractLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>54, 13</value>
+  </data>
+  <data name="DeleteAllBTN.Text" xml:space="preserve">
+    <value>Tout Désintaller</value>
+  </data>
+  <data name="&gt;&gt;label4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="InfoBox.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;OwnerBTN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="LauncherSoon1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>188, 57</value>
+  </data>
+  <data name="pourcentageLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="ExtractLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="LauncherSoon2.Text" xml:space="preserve">
+    <value>Launcher Prochainement</value>
+  </data>
+  <data name="ReinstallLunarBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>116, 20</value>
+  </data>
+  <data name="ExitSettings.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="Speed.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;SpeedLabel.Name" xml:space="preserve">
+    <value>SpeedLabel</value>
+  </data>
+  <data name="&gt;&gt;LauncherSoon1.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>UIbox</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="TlauncherBTN.Text" xml:space="preserve">
+    <value>Installer Tlauncher</value>
+  </data>
+  <data name="ReinstallPanel.Text" xml:space="preserve">
+    <value>Réinstaller</value>
+  </data>
+  <data name="TotalLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ReinstallSalwyrrBTN.Text" xml:space="preserve">
+    <value>Réinstaller Salwyrr</value>
+  </data>
+  <data name="&gt;&gt;ReinstallSalwyrrBTN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="UICheckBox.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>X64/X86</value>
+  </data>
+  <data name="&gt;&gt;SettingsPanel.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="UIbox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>124, 59</value>
+  </data>
+  <data name="InfoBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 70</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>796, 317</value>
+  </data>
+  <data name="ReinstallPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>502, 70</value>
+  </data>
+  <data name="ReinstallTlauncherBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>114, 23</value>
+  </data>
+  <data name="PalaBTN.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="ReinstallSalwyrrBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 20</value>
+  </data>
+  <data name="&gt;&gt;LauncherSoon3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="UIbox.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="&gt;&gt;label7.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;ReinstallPalaBTN.Parent" xml:space="preserve">
+    <value>ReinstallPanel</value>
+  </data>
+  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="ProgressBArShowBTN.Text" xml:space="preserve">
+    <value>Afficher les bars de Progress</value>
+  </data>
+  <data name="ReinstallTlauncherBTN.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;label5.Name" xml:space="preserve">
+    <value>label5</value>
+  </data>
+  <data name="&gt;&gt;LanguageChanger.Name" xml:space="preserve">
+    <value>LanguageChanger</value>
+  </data>
+  <data name="TotalDecompressProgressBar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>487, 23</value>
+  </data>
+  <data name="TotalLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 13</value>
+  </data>
+  <data name="UICheckBox.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="SpeedLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>86, 37</value>
+  </data>
+  <data name="&gt;&gt;label8.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;UIbox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="LauncherSoon4.Text" xml:space="preserve">
+    <value>Launcher Prochainement</value>
+  </data>
+  <data name="&gt;&gt;TotalLabel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="TotalDecompressProgressBar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>134, 47</value>
+  </data>
+  <data name="&gt;&gt;button_3.Parent" xml:space="preserve">
+    <value>SettingsPanel</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="&gt;&gt;label9.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;PalaBTN.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;DeleteAllBTN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ReinstallLunarBTN.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="&gt;&gt;TlauncherBTN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 71</value>
+  </data>
+  <data name="progressBar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>134, 18</value>
+  </data>
+  <data name="InfoBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 100</value>
+  </data>
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 176</value>
+  </data>
+  <data name="progressBar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>487, 23</value>
+  </data>
+  <data name="&gt;&gt;ReinstallPanel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;SpeedLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;ReinstallTlauncherBTN.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;ReinstallTlauncherBTN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="TlauncherBTN.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="LauncherSoon3.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="LunarBTN.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="LauncherSoon.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="DeleteAllBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>139, 71</value>
+  </data>
+  <data name="&gt;&gt;UICheckBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="button_3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="ExitInfoBTN.Text" xml:space="preserve">
+    <value>X</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="PalaBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>328, 15</value>
+  </data>
+  <data name="LunarBTN.Text" xml:space="preserve">
+    <value>Installer Lunar</value>
+  </data>
+  <data name="LanguageChanger.Items" xml:space="preserve">
+    <value>French</value>
+  </data>
+  <data name="&gt;&gt;TlauncherBTN.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;label6.Name" xml:space="preserve">
+    <value>label6</value>
+  </data>
+  <data name="&gt;&gt;BadlionBTN.Name" xml:space="preserve">
+    <value>BadlionBTN</value>
+  </data>
+  <data name="label6.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="LauncherSoon3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>466, 57</value>
+  </data>
+  <data name="&gt;&gt;label9.Name" xml:space="preserve">
+    <value>label9</value>
+  </data>
+  <data name="&gt;&gt;LauncherSoon4.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>en</value>
+  </metadata>
 </root>

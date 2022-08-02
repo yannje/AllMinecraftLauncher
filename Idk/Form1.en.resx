@@ -124,23 +124,29 @@
   <data name="DownloadBNT.Size" type="System.Drawing.Size, System.Drawing">
     <value>134, 23</value>
   </data>
+  <data name="DownloadBNT.Text" xml:space="preserve">
+    <value>Install Salwyrr</value>
+  </data>
   <data name="LunarBTN.Location" type="System.Drawing.Point, System.Drawing">
     <value>175, 15</value>
   </data>
   <data name="LunarBTN.Size" type="System.Drawing.Size, System.Drawing">
     <value>136, 23</value>
   </data>
+  <data name="LunarBTN.Text" xml:space="preserve">
+    <value>Install Lunar</value>
+  </data>
   <data name="TlauncherBTN.Location" type="System.Drawing.Point, System.Drawing">
     <value>455, 15</value>
   </data>
-  <data name="TlauncherBTN.Size" type="System.Drawing.Size, System.Drawing">
-    <value>134, 23</value>
+  <data name="TlauncherBTN.Text" xml:space="preserve">
+    <value>Install Tlauncher</value>
   </data>
   <data name="BadlionBTN.Location" type="System.Drawing.Point, System.Drawing">
     <value>595, 15</value>
   </data>
-  <data name="BadlionBTN.Size" type="System.Drawing.Size, System.Drawing">
-    <value>134, 23</value>
+  <data name="BadlionBTN.Text" xml:space="preserve">
+    <value>Install Badlion</value>
   </data>
   <data name="PalaBTN.Location" type="System.Drawing.Point, System.Drawing">
     <value>317, 15</value>
@@ -148,14 +154,29 @@
   <data name="PalaBTN.Size" type="System.Drawing.Size, System.Drawing">
     <value>132, 23</value>
   </data>
-  <data name="SettingsPanel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>274, 100</value>
+  <data name="PalaBTN.Text" xml:space="preserve">
+    <value>Install Paladuim(FR)</value>
   </data>
-  <data name="button_3.Text" xml:space="preserve">
-    <value>Secret</value>
+  <data name="OwnerBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>203, 72</value>
+  </data>
+  <data name="OwnerBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>65, 23</value>
+  </data>
+  <data name="OwnerBTN.Text" xml:space="preserve">
+    <value>Creators</value>
   </data>
   <data name="LanguageChanger.Location" type="System.Drawing.Point, System.Drawing">
-    <value>176, 45</value>
+    <value>193, 45</value>
+  </data>
+  <data name="LanguageChanger.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 21</value>
+  </data>
+  <data name="UICheckBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 17</value>
+  </data>
+  <data name="UICheckBox.Text" xml:space="preserve">
+    <value>Show UI</value>
   </data>
   <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
     <value>130, 72</value>
@@ -163,11 +184,17 @@
   <data name="ExitSettings.Location" type="System.Drawing.Point, System.Drawing">
     <value>236, 11</value>
   </data>
-  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 176</value>
+  <data name="ProgressBArShowBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>116, 17</value>
   </data>
-  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>772, 129</value>
+  <data name="ProgressBArShowBTN.Text" xml:space="preserve">
+    <value>Show Progress Bar</value>
+  </data>
+  <data name="SettingsPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>274, 100</value>
+  </data>
+  <data name="SettingsPanel.Text" xml:space="preserve">
+    <value>Settings</value>
   </data>
   <data name="LauncherSoon4.Location" type="System.Drawing.Point, System.Drawing">
     <value>595, 57</value>
@@ -229,26 +256,59 @@
   <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
     <value>648, 41</value>
   </data>
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 176</value>
+  </data>
+  <data name="DeleteAllBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>126, 71</value>
+  </data>
+  <data name="DeleteAllBTN.Text" xml:space="preserve">
+    <value>Uninstall All</value>
+  </data>
+  <data name="ReinstallPalaBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 46</value>
+  </data>
+  <data name="ReinstallPalaBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>122, 23</value>
+  </data>
+  <data name="ReinstallPalaBTN.Text" xml:space="preserve">
+    <value>Reinstall Paladuim(FR)</value>
+  </data>
+  <data name="ReinstallTlauncherBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 71</value>
+  </data>
+  <data name="ReinstallTlauncherBTN.Text" xml:space="preserve">
+    <value>Reinstall Tlauncher</value>
+  </data>
+  <data name="ReinstallBadlionBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>134, 46</value>
+  </data>
+  <data name="ReinstallBadlionBTN.Text" xml:space="preserve">
+    <value>Reinstall Badlion</value>
+  </data>
+  <data name="ReinstallLunarBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>121, 20</value>
+  </data>
+  <data name="ReinstallLunarBTN.Text" xml:space="preserve">
+    <value>Reinstall Lunar</value>
+  </data>
+  <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>238, 10</value>
+  </data>
+  <data name="ReinstallSalwyrrBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 20</value>
+  </data>
+  <data name="ReinstallSalwyrrBTN.Text" xml:space="preserve">
+    <value>Reinstall Salwyrr</value>
+  </data>
   <data name="ReinstallPanel.Location" type="System.Drawing.Point, System.Drawing">
     <value>508, 70</value>
   </data>
   <data name="ReinstallPanel.Size" type="System.Drawing.Size, System.Drawing">
     <value>276, 100</value>
   </data>
-  <data name="DeleteAllBTN.Location" type="System.Drawing.Point, System.Drawing">
-    <value>126, 71</value>
-  </data>
-  <data name="ReinstallPalaBTN.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 44</value>
-  </data>
-  <data name="ReinstallTlauncherBTN.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 71</value>
-  </data>
-  <data name="ReinstallBadlionBTN.Location" type="System.Drawing.Point, System.Drawing">
-    <value>134, 44</value>
-  </data>
-  <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>238, 10</value>
+  <data name="ReinstallPanel.Text" xml:space="preserve">
+    <value>Reinstall</value>
   </data>
   <data name="ExtractLabel.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 8.25pt</value>
@@ -258,12 +318,6 @@
   </data>
   <data name="ExtractLabel.Location" type="System.Drawing.Point, System.Drawing">
     <value>326, 50</value>
-  </data>
-  <data name="ExtractLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 17</value>
-  </data>
-  <data name="ExtractLabel.Text" xml:space="preserve">
-    <value>Extraction</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>

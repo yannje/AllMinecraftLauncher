@@ -59,14 +59,16 @@
             this.LauncherSoon4 = new System.Windows.Forms.Button();
             this.LauncherSoon3 = new System.Windows.Forms.Button();
             this.LauncherSoon2 = new System.Windows.Forms.Button();
-            this.LauncherSoon1 = new System.Windows.Forms.Button();
-            this.LauncherSoon = new System.Windows.Forms.Button();
+            this.MicraftBTN = new System.Windows.Forms.Button();
+            this.AzBTN = new System.Windows.Forms.Button();
             this.label9 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.ReinstallPanel = new System.Windows.Forms.GroupBox();
+            this.ReinstallMicraftBTN = new System.Windows.Forms.Button();
+            this.ReinstallBTNAz = new System.Windows.Forms.Button();
             this.DeleteAllBTN = new System.Windows.Forms.Button();
             this.ReinstallPalaBTN = new System.Windows.Forms.Button();
             this.ReinstallTlauncherBTN = new System.Windows.Forms.Button();
@@ -155,6 +157,7 @@
             this.PalaBTN.BackColor = System.Drawing.SystemColors.Control;
             this.PalaBTN.Name = "PalaBTN";
             this.PalaBTN.UseVisualStyleBackColor = false;
+            this.PalaBTN.Click += new System.EventHandler(this.PalaBTN_Click);
             // 
             // SettingsBTN
             // 
@@ -287,8 +290,8 @@
             this.panel1.Controls.Add(this.LauncherSoon4);
             this.panel1.Controls.Add(this.LauncherSoon3);
             this.panel1.Controls.Add(this.LauncherSoon2);
-            this.panel1.Controls.Add(this.LauncherSoon1);
-            this.panel1.Controls.Add(this.LauncherSoon);
+            this.panel1.Controls.Add(this.MicraftBTN);
+            this.panel1.Controls.Add(this.AzBTN);
             this.panel1.Controls.Add(this.label9);
             this.panel1.Controls.Add(this.label8);
             this.panel1.Controls.Add(this.label7);
@@ -331,25 +334,25 @@
             this.LauncherSoon2.UseVisualStyleBackColor = false;
             this.LauncherSoon2.Click += new System.EventHandler(this.LauncherSoon2_Click);
             // 
-            // LauncherSoon1
+            // MicraftBTN
             // 
-            resources.ApplyResources(this.LauncherSoon1, "LauncherSoon1");
-            this.LauncherSoon1.BackColor = System.Drawing.SystemColors.Control;
-            this.LauncherSoon1.FlatAppearance.BorderColor = System.Drawing.Color.Black;
-            this.LauncherSoon1.FlatAppearance.BorderSize = 30;
-            this.LauncherSoon1.Name = "LauncherSoon1";
-            this.LauncherSoon1.UseVisualStyleBackColor = false;
-            this.LauncherSoon1.Click += new System.EventHandler(this.LauncherSoon1_Click);
+            resources.ApplyResources(this.MicraftBTN, "MicraftBTN");
+            this.MicraftBTN.BackColor = System.Drawing.SystemColors.Control;
+            this.MicraftBTN.FlatAppearance.BorderColor = System.Drawing.Color.Black;
+            this.MicraftBTN.FlatAppearance.BorderSize = 30;
+            this.MicraftBTN.Name = "MicraftBTN";
+            this.MicraftBTN.UseVisualStyleBackColor = false;
+            this.MicraftBTN.Click += new System.EventHandler(this.MicraftBTN_Click);
             // 
-            // LauncherSoon
+            // AzBTN
             // 
-            resources.ApplyResources(this.LauncherSoon, "LauncherSoon");
-            this.LauncherSoon.BackColor = System.Drawing.SystemColors.Control;
-            this.LauncherSoon.FlatAppearance.BorderColor = System.Drawing.Color.Black;
-            this.LauncherSoon.FlatAppearance.BorderSize = 30;
-            this.LauncherSoon.Name = "LauncherSoon";
-            this.LauncherSoon.UseVisualStyleBackColor = false;
-            this.LauncherSoon.Click += new System.EventHandler(this.LauncherSoon_Click);
+            resources.ApplyResources(this.AzBTN, "AzBTN");
+            this.AzBTN.BackColor = System.Drawing.SystemColors.Control;
+            this.AzBTN.FlatAppearance.BorderColor = System.Drawing.Color.Black;
+            this.AzBTN.FlatAppearance.BorderSize = 30;
+            this.AzBTN.Name = "AzBTN";
+            this.AzBTN.UseVisualStyleBackColor = false;
+            this.AzBTN.Click += new System.EventHandler(this.AzBTN_Click);
             // 
             // label9
             // 
@@ -379,6 +382,8 @@
             // ReinstallPanel
             // 
             resources.ApplyResources(this.ReinstallPanel, "ReinstallPanel");
+            this.ReinstallPanel.Controls.Add(this.ReinstallMicraftBTN);
+            this.ReinstallPanel.Controls.Add(this.ReinstallBTNAz);
             this.ReinstallPanel.Controls.Add(this.DeleteAllBTN);
             this.ReinstallPanel.Controls.Add(this.ReinstallPalaBTN);
             this.ReinstallPanel.Controls.Add(this.ReinstallTlauncherBTN);
@@ -388,6 +393,24 @@
             this.ReinstallPanel.Controls.Add(this.ReinstallSalwyrrBTN);
             this.ReinstallPanel.Name = "ReinstallPanel";
             this.ReinstallPanel.TabStop = false;
+            // 
+            // ReinstallMicraftBTN
+            // 
+            resources.ApplyResources(this.ReinstallMicraftBTN, "ReinstallMicraftBTN");
+            this.ReinstallMicraftBTN.BackColor = System.Drawing.SystemColors.Control;
+            this.ReinstallMicraftBTN.FlatAppearance.BorderColor = System.Drawing.Color.Black;
+            this.ReinstallMicraftBTN.FlatAppearance.BorderSize = 30;
+            this.ReinstallMicraftBTN.Name = "ReinstallMicraftBTN";
+            this.ReinstallMicraftBTN.UseVisualStyleBackColor = false;
+            this.ReinstallMicraftBTN.Click += new System.EventHandler(this.ReinstallMicraftBTN_Click);
+            // 
+            // ReinstallBTNAz
+            // 
+            resources.ApplyResources(this.ReinstallBTNAz, "ReinstallBTNAz");
+            this.ReinstallBTNAz.BackColor = System.Drawing.SystemColors.Control;
+            this.ReinstallBTNAz.Name = "ReinstallBTNAz";
+            this.ReinstallBTNAz.UseVisualStyleBackColor = false;
+            this.ReinstallBTNAz.Click += new System.EventHandler(this.ReinstallBTNAz_Click);
             // 
             // DeleteAllBTN
             // 
@@ -403,6 +426,7 @@
             this.ReinstallPalaBTN.BackColor = System.Drawing.SystemColors.Control;
             this.ReinstallPalaBTN.Name = "ReinstallPalaBTN";
             this.ReinstallPalaBTN.UseVisualStyleBackColor = false;
+            this.ReinstallPalaBTN.Click += new System.EventHandler(this.ReinstallPalaBTN_Click);
             // 
             // ReinstallTlauncherBTN
             // 
@@ -410,6 +434,7 @@
             this.ReinstallTlauncherBTN.BackColor = System.Drawing.SystemColors.Control;
             this.ReinstallTlauncherBTN.Name = "ReinstallTlauncherBTN";
             this.ReinstallTlauncherBTN.UseVisualStyleBackColor = false;
+            this.ReinstallTlauncherBTN.Click += new System.EventHandler(this.ReinstallTlauncherBTN_Click);
             // 
             // ReinstallBadlionBTN
             // 
@@ -550,9 +575,11 @@
         private System.Windows.Forms.Button LauncherSoon4;
         private System.Windows.Forms.Button LauncherSoon3;
         private System.Windows.Forms.Button LauncherSoon2;
-        private System.Windows.Forms.Button LauncherSoon1;
-        private System.Windows.Forms.Button LauncherSoon;
+        private System.Windows.Forms.Button MicraftBTN;
+        private System.Windows.Forms.Button AzBTN;
         private System.Windows.Forms.Button OwnerBTN;
+        private System.Windows.Forms.Button ReinstallBTNAz;
+        private System.Windows.Forms.Button ReinstallMicraftBTN;
     }
 }
 

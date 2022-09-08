@@ -16,5 +16,10 @@ namespace About_the_creator
         {
             Process.Start("http://lunarclient.com");
         }
+
+        private void SalwyrrWebsite_Click(object sender, EventArgs e)
+        {
+            Process.Start("http://salwyrr.com");
+        }
     }
 }

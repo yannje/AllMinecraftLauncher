@@ -118,6 +118,127 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="progressBar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>610, 23</value>
+  </data>
+  <data name="pourcentageLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>755, 28</value>
+  </data>
+  <data name="PalaBTN.Text" xml:space="preserve">
+    <value>Installer Paladium(FR)</value>
+  </data>
+  <data name="SettingsBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>789, 23</value>
+  </data>
+  <data name="SettingsPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>311, 100</value>
+  </data>
+  <data name="SettingsPanel.Text" xml:space="preserve">
+    <value>Paramètres</value>
+  </data>
+  <data name="OwnerBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>232, 72</value>
+  </data>
+  <data name="OwnerBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 23</value>
+  </data>
+  <data name="button_3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>84, 71</value>
+  </data>
+  <data name="LanguageChanger.Location" type="System.Drawing.Point, System.Drawing">
+    <value>234, 42</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>165, 71</value>
+  </data>
+  <data name="InfoBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 23</value>
+  </data>
+  <data name="ExitSettings.Location" type="System.Drawing.Point, System.Drawing">
+    <value>273, 7</value>
+  </data>
+  <data name="LauncherSoon4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>617, 57</value>
+  </data>
+  <data name="LauncherSoon3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>477, 57</value>
+  </data>
+  <data name="LauncherSoon2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>337, 57</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="MicraftBTN.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="MicraftBTN.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="MicraftBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>143, 23</value>
+  </data>
+  <data name="MicraftBTN.Text" xml:space="preserve">
+    <value>Installer MinecraftLauncher</value>
+  </data>
+  <data name="AzBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>47, 57</value>
+  </data>
+  <data name="AzBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>135, 23</value>
+  </data>
+  <data name="AzBTN.Text" xml:space="preserve">
+    <value>Installer AzLauncher</value>
+  </data>
+  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>879, 129</value>
+  </data>
+  <data name="ReinstallPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>534, 70</value>
+  </data>
+  <data name="ReinstallPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>349, 100</value>
+  </data>
+  <data name="ReinstallBTNAz.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="ReinstallBTNAz.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ReinstallBTNAz.Size" type="System.Drawing.Size, System.Drawing">
+    <value>99, 23</value>
+  </data>
+  <data name="ReinstallBTNAz.Text" xml:space="preserve">
+    <value>Réinstaller Az</value>
+  </data>
+  <data name="DeleteAllBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>245, 70</value>
+  </data>
+  <data name="DeleteAllBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>98, 23</value>
+  </data>
+  <data name="ReinstallPalaBTN.Text" xml:space="preserve">
+    <value>Réinstaller Paladium(FR)</value>
+  </data>
+  <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>311, 10</value>
+  </data>
+  <data name="TotalDecompressProgressBar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>610, 23</value>
+  </data>
+  <data name="ReinstallMicraftBTN.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="ReinstallMicraftBTN.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ReinstallMicraftBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 23</value>
+  </data>
+  <data name="ReinstallMicraftBTN.Text" xml:space="preserve">
+    <value>Réinstaller Micraft</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>895, 317</value>
+  </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         AAABAAEA9AAAAAEAIAAo8AMAFgAAACgAAAD0AAAAAAIAAAEAIAAAAAAAANADAAAAAAAAAAAAAAAAAAAA

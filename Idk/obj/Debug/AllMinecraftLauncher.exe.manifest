@@ -43,26 +43,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AllMinecraftLauncher.exe" size="590336">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AllMinecraftLauncher.exe" size="596992">
       <assemblyIdentity name="AllMinecraftLauncher" version="1.0.0.0" publicKeyToken="845A21FF5A7A80CA" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>fkXu6ZhHdh5pwp6CmtaqDMzx0j4mqjA5sf86IXZ5sO4=</dsig:DigestValue>
+        <dsig:DigestValue>D7/NzKR+ER/SqOlBojQpPNQydvQ+r5lFx791unauIdg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en\AllMinecraftLauncher.resources.dll" size="273920">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en\AllMinecraftLauncher.resources.dll" size="276992">
       <assemblyIdentity name="AllMinecraftLauncher.resources" version="1.0.0.0" publicKeyToken="845A21FF5A7A80CA" language="en" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>GIZPhKMe4CPSwU1HS9AI6S/SPx5XeqG+plZCEfilK0I=</dsig:DigestValue>
+        <dsig:DigestValue>Dur8c5LE8dCfazlqnf+u9vl4CuHoOk4TOF15kjYJG2o=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

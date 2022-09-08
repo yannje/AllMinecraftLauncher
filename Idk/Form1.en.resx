@@ -127,6 +127,21 @@
   <data name="DownloadBNT.Text" xml:space="preserve">
     <value>Install Salwyrr</value>
   </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>73, 13</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Downloaded :</value>
+  </data>
+  <data name="Speed.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 37</value>
+  </data>
+  <data name="Speed.Size" type="System.Drawing.Size, System.Drawing">
+    <value>77, 13</value>
+  </data>
+  <data name="Speed.Text" xml:space="preserve">
+    <value>To Download :</value>
+  </data>
   <data name="LunarBTN.Location" type="System.Drawing.Point, System.Drawing">
     <value>175, 15</value>
   </data>
@@ -155,10 +170,19 @@
     <value>132, 23</value>
   </data>
   <data name="PalaBTN.Text" xml:space="preserve">
-    <value>Install Paladuim(FR)</value>
+    <value>Install Paladium(FR)</value>
+  </data>
+  <data name="SettingsBTN.Text" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="SettingsPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>274, 100</value>
+  </data>
+  <data name="SettingsPanel.Text" xml:space="preserve">
+    <value>Settings</value>
   </data>
   <data name="OwnerBTN.Location" type="System.Drawing.Point, System.Drawing">
-    <value>203, 72</value>
+    <value>122, 45</value>
   </data>
   <data name="OwnerBTN.Size" type="System.Drawing.Size, System.Drawing">
     <value>65, 23</value>
@@ -179,7 +203,7 @@
     <value>Show UI</value>
   </data>
   <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>130, 72</value>
+    <value>203, 71</value>
   </data>
   <data name="ExitSettings.Location" type="System.Drawing.Point, System.Drawing">
     <value>236, 11</value>
@@ -189,12 +213,6 @@
   </data>
   <data name="ProgressBArShowBTN.Text" xml:space="preserve">
     <value>Show Progress Bar</value>
-  </data>
-  <data name="SettingsPanel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>274, 100</value>
-  </data>
-  <data name="SettingsPanel.Text" xml:space="preserve">
-    <value>Settings</value>
   </data>
   <data name="LauncherSoon4.Location" type="System.Drawing.Point, System.Drawing">
     <value>595, 57</value>
@@ -223,23 +241,27 @@
   <data name="LauncherSoon2.Text" xml:space="preserve">
     <value>Launcher Comming Soon</value>
   </data>
-  <data name="LauncherSoon1.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="MicraftBTN.Location" type="System.Drawing.Point, System.Drawing">
     <value>175, 57</value>
   </data>
-  <data name="LauncherSoon1.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="MicraftBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>136, 23</value>
+  </data>
+  <data name="MicraftBTN.Text" xml:space="preserve">
+    <value>Install MinecraftLauncher</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="AzBTN.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Popup</value>
+  </data>
+  <data name="AzBTN.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="AzBTN.Size" type="System.Drawing.Size, System.Drawing">
     <value>134, 22</value>
   </data>
-  <data name="LauncherSoon1.Text" xml:space="preserve">
-    <value>Launcher Comming Soon</value>
-  </data>
-  <data name="LauncherSoon.Location" type="System.Drawing.Point, System.Drawing">
-    <value>35, 57</value>
-  </data>
-  <data name="LauncherSoon.Size" type="System.Drawing.Size, System.Drawing">
-    <value>134, 22</value>
-  </data>
-  <data name="LauncherSoon.Text" xml:space="preserve">
-    <value>Launcher Comming Soon</value>
+  <data name="AzBTN.Text" xml:space="preserve">
+    <value>Install AzLauncher</value>
   </data>
   <data name="label9.Location" type="System.Drawing.Point, System.Drawing">
     <value>498, 41</value>
@@ -259,8 +281,38 @@
   <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
     <value>12, 176</value>
   </data>
+  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>850, 129</value>
+  </data>
+  <data name="ReinstallPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>508, 70</value>
+  </data>
+  <data name="ReinstallPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>354, 100</value>
+  </data>
+  <data name="ReinstallPanel.Text" xml:space="preserve">
+    <value>Reinstall</value>
+  </data>
+  <data name="ReinstallMicraftBTN.Location" type="System.Drawing.Point, System.Drawing">
+    <value>247, 46</value>
+  </data>
+  <data name="ReinstallMicraftBTN.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 23</value>
+  </data>
+  <data name="ReinstallMicraftBTN.Text" xml:space="preserve">
+    <value>Reinstall Micraft</value>
+  </data>
+  <data name="ReinstallBTNAz.Location" type="System.Drawing.Point, System.Drawing">
+    <value>126, 70</value>
+  </data>
+  <data name="ReinstallBTNAz.Size" type="System.Drawing.Size, System.Drawing">
+    <value>89, 23</value>
+  </data>
+  <data name="ReinstallBTNAz.Text" xml:space="preserve">
+    <value>Reinstall AZ</value>
+  </data>
   <data name="DeleteAllBTN.Location" type="System.Drawing.Point, System.Drawing">
-    <value>126, 71</value>
+    <value>221, 71</value>
   </data>
   <data name="DeleteAllBTN.Text" xml:space="preserve">
     <value>Uninstall All</value>
@@ -272,7 +324,7 @@
     <value>122, 23</value>
   </data>
   <data name="ReinstallPalaBTN.Text" xml:space="preserve">
-    <value>Reinstall Paladuim(FR)</value>
+    <value>Reinstall Paladium(FR)</value>
   </data>
   <data name="ReinstallTlauncherBTN.Location" type="System.Drawing.Point, System.Drawing">
     <value>6, 71</value>
@@ -293,22 +345,16 @@
     <value>Reinstall Lunar</value>
   </data>
   <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>238, 10</value>
+    <value>318, 10</value>
+  </data>
+  <data name="button2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>30, 23</value>
   </data>
   <data name="ReinstallSalwyrrBTN.Location" type="System.Drawing.Point, System.Drawing">
     <value>6, 20</value>
   </data>
   <data name="ReinstallSalwyrrBTN.Text" xml:space="preserve">
     <value>Reinstall Salwyrr</value>
-  </data>
-  <data name="ReinstallPanel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>508, 70</value>
-  </data>
-  <data name="ReinstallPanel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>276, 100</value>
-  </data>
-  <data name="ReinstallPanel.Text" xml:space="preserve">
-    <value>Reinstall</value>
   </data>
   <data name="ExtractLabel.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 8.25pt</value>
@@ -318,6 +364,9 @@
   </data>
   <data name="ExtractLabel.Location" type="System.Drawing.Point, System.Drawing">
     <value>326, 50</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>888, 317</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
